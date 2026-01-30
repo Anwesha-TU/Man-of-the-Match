@@ -1,2 +1,2 @@
 # Man-of-the-Match
-Computing The 'Man of the Match' award of a 50-over cricket match is decided by computing points earned by players.
+deciding the winner of the 'Man of the Match' award of a cricket match is decided by computing points earned by players.
